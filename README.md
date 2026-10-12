@@ -1,2 +1,4 @@
 # git-practice
-here we are build to learn github
+
+ready to build github
+
